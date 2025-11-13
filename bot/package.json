@@ -1,0 +1,16 @@
+{
+  "name": "dostotcoin-bot",
+  "version": "0.1.0",
+  "description": "Discord bot that simulates a fake cryptocurrency (Dostotcoin)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
